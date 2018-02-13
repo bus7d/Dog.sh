@@ -1,4 +1,7 @@
 #!/bin/bash
+#run this script with the "watch" command to enable realtime monitoring
+#e.g:"watch -n 3 ./dog.sh" run dog.sh every 3seconds
+echo "dog.sh by bus7d"
 
 echo Hello $USER  Dog is on patrol..
 echo "Active Users::" 
